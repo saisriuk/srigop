@@ -1,0 +1,11 @@
+[0.005][INFO]:      ChromeDriver 19.0.1068.0 C:\Gopi\ProjectWork\sample\Drivers\chromedriver.exe
+[2.170][FINE]:      Initializing session with capabilities {
+   "browserName": "chrome",
+   "goog:chromeOptions": {
+      "args": [  ],
+      "extensions": [  ]
+   }
+}
+
+[2.190][INFO]:      Launching chrome: "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --disable-hang-monitor --disable-prompt-on-repost --dom-automation --full-memory-crash-report --no-default-browser-check --no-first-run --ignore-certificate-errors --homepage=about:blank
+[47.396][SEVERE]:   Failed to initialize connection
